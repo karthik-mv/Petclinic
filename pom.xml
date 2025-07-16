@@ -89,9 +89,8 @@
                       <url>http://35.174.171.133:8081/repository/maven-releases/</url>
                     </repository>
                     <snapshotRepository>
-                      <id>maven-snapshots</id>
-                      <!-- CHANGE HERE by your team Nexus server -->
-                      <url>http://35.174.171.133:8081/repository/maven-releases/</url>
+                             <id>maven-snapshots</id>
+                             <url>http://35.174.171.133:8081/repository/maven-snapshots/</url>
                     </snapshotRepository>
          </distributionManagement>
 
